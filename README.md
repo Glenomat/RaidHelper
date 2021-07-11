@@ -1,6 +1,6 @@
 # RaidHelper
 
-This bot can manage Raids. Just set date, time and name and youre good to go.
+This bot can manage Raids. Just set date, time and name and you're good to go.
 
 Commands:
 
